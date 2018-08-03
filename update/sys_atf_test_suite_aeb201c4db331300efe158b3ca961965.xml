@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite">
+    <sys_atf_test_suite action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>abraka dabraa</description>
+        <name>My New Test Suite</name>
+        <parent/>
+        <sys_class_name>sys_atf_test_suite</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-03 13:12:06</sys_created_on>
+        <sys_id>aeb201c4db331300efe158b3ca961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My New Test Suite</sys_name>
+        <sys_package display_value="atf_set1" source="x_60906_atf_set1">b06145c0db331300efe158b3ca96194b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="atf_set1">b06145c0db331300efe158b3ca96194b</sys_scope>
+        <sys_update_name>sys_atf_test_suite_aeb201c4db331300efe158b3ca961965</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-03 13:12:06</sys_updated_on>
+    </sys_atf_test_suite>
+</record_update>
